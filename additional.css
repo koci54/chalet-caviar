@@ -1,0 +1,232 @@
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+
+last updated on september 21, 2017
+*/
+
+
+/*
+You can add your own CSS here.
+
+Click the help icon above to learn more.
+*/
+
+
+
+.page-title {
+	display: none;
+}
+
+.post-title {
+	display: none;
+}
+
+section.page-title-section.bg-secondary{
+
+	display: none;
+}
+
+ul.listing-meta li.listing-property-type {
+	display: none;
+}
+
+ul.post-meta {
+
+	display: none;
+}
+
+
+div.shapely-content.dropcaps-content {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content: space-evenly;
+	align-items: flex-start;
+}
+
+div.col-md-8.col-md-offset-2.col-sm-10.text-center > p {
+	margin: 0;
+    box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+	font-size: 19px;
+	border-radius: 4px;
+	padding-left: 6px;
+	padding-right: 6px;
+	padding-bottom: 5px;
+    position: absolute;
+    top: 90%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)	
+}
+
+div.col-md-8.col-md-offset-2.col-sm-10.text-center > h1 {	
+	box-shadow: inset 0 0 0 1000px rgba(0,0,0,.2);
+	border-radius: 4px;
+  	color: #fff; 
+	display: inline-block;
+	line-height: 72px;
+	padding-left: 16px;
+	padding-right: 16px;
+	padding-bottom: 13px;
+}
+
+.col-md-4.col-md-offset-1.col-sm-5.col-sm-offset-1 {
+	text-align: justify;
+}
+
+.col-md-4.col-sm-5.mb-xs-24 {
+	text-align: justify;
+}
+	
+div.col-md-8.col-md-offset-2.col-sm-10.text-center > a.btn.btn-lg.btn-filled {
+ 	margin: 0;
+    position: absolute;
+    top: 150%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%) 
+}
+
+.label {
+	border-top-style: none;
+	color: #666;
+}
+
+h2.widget-title {
+	text-align: center;
+	padding-top: 10px;
+}
+
+.wplistings-single-listing td {
+	border-top: none;
+	width: 50%;
+}
+
+#site-navigation .search-widget-handle {
+    display: none;
+}
+
+.function {
+	height: 50px;
+}
+
+
+.agents img {
+    height: auto;
+    width: 100%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    border-radius: 50%;
+}
+
+iframe {
+ 	width: 100%;
+}
+
+label {
+ 	padding-top: 25px;
+	width: 100%;
+	
+}
+.wpcf7-form-control.wpcf7-text {
+	box-sizing: border-box;
+	background-color: #fff;
+	border: 1px solid #ddd;
+    border-top-color: rgb(221, 221, 221);
+    border-right-color: rgb(221, 221, 221);
+    border-bottom-color: rgb(221, 221, 221);
+    border-left-color: rgb(221, 221, 221);
+	border-radius: 3px;
+	box-shadow: 1px 1px 3px #eee inset;
+	color: #999;
+	font-size: 14px;
+	padding: 10px;
+	margin: 0;
+	width: 100%;
+	height: auto;
+}
+
+.col-md-4 {
+	padding-top: 25px;
+}
+
+a.icon {
+	padding: 10px;
+}
+
+div.textwidget.custom-html-widget {
+	text-align: center;
+}
+
+
+div.footer-credits {
+	display: none;
+}
+
+
+footer#colophon.site-footer.footer.bg-dark {
+	background-color: #191919;
+	
+	padding: 0;
+}
+
+.page_item.page-item-32 {
+	display: none;
+}
+
+.btn {
+	border: none;
+}
+
+div.col-md-3.col-sm-6.footer-widget {
+
+	postition: relative;
+	top: 20px;
+	text-align: right;
+	margin: 0;
+	padding: 23px;
+	padding-left: 65px;
+	
+}
+
+.site-info.col-sm-6 {
+	width: 100%;
+}
+
+.listing-thumb-meta .listing-price:before {
+	content: "$ ";
+}
+
+.socials a:hover {
+	color: #d3ac2c;
+
+}
+.socials .fa {
+	color: #8c979e;
+}
+
+.nav-links {
+	padding: 25px;
+	border: none;
+}
+
+nav.navigation.listing-navigation {
+	border: none;
+}
+
+nav.navigation.listing-navigation a {
+	border: none;
+	text-align: center;
+	color: #d3ac2c;
+}
+
+nav.navigation.listing-navigation a:hover {
+	color: #ffdf00;
+}
+
+
+
